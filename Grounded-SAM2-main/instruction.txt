@@ -1,0 +1,1 @@
+Place the official code of Grounded‑SAM2 here.
