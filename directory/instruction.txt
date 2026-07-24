@@ -1,0 +1,1 @@
+You may put the  weights of LongClip into this folder.
